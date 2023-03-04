@@ -1,0 +1,39 @@
+.contactsBlock {
+background-color: #bdff93;
+}
+
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 250px;
+    height: 100px;
+}
+
+.button {
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-size: 15px;
+    height: 30px;
+}
+
+.input {
+    width: 250px;
+    height: 35px;
+}
+
+.textArea {
+    width: 250px;
+    height: 90px;
+}

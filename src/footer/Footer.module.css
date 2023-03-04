@@ -1,0 +1,23 @@
+.footerBlock {
+    background-color: #f3e3ff;
+    flex-direction: column;
+}
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.squareBlock {
+
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    gap: 7px;
+}
+
+.square {
+    background-color: hotpink;
+    width: 70px;
+    height: 70px;
+}

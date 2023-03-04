@@ -1,0 +1,19 @@
+.remBlock {
+    background-color: #fffcf3;
+
+}
+
+.remContainer {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+.button {
+    font-size: 18px;
+    background-color: azure
+}
+
+.h2 {
+    text-align: center;
+}
